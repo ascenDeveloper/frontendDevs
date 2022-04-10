@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Desarrollo de curso técnico de frontend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascendDeveloper/frontendDevs.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Frontend"
+  ],
+  "author": "ascend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascendDeveloper/frontendDevs/issues"
+  },
+  "homepage": "https://github.com/ascendDeveloper/frontendDevs#readme"
+}
